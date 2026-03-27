@@ -1,3 +1,4 @@
 build/*
 python_interface/__pycache__/*
 .cache/*
+*.log
